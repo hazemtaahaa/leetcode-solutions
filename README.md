@@ -2,16 +2,7 @@
 
 This repository contains my solutions to LeetCode problems implemented in C#.
 
-## Table of Contents
+## Progress Grid
+You can view my progress on LeetCode here: [LeetCode Progress](https://leetcode.com/HazemTaha/)
 
-### Easy
-- [Two Sum](/Problems/Easy/TwoSum.cs)
-- [Palindrome Number](/Problems/Easy/PalindromeNumber.cs)
-
-### Medium
-- [Add Two Numbers](/Problems/Medium/AddTwoNumbers.cs)
-- [Longest Substring Without Repeating Characters](/Problems/Medium/LongestSubstringWithoutRepeatingCharacters.cs)
-
-### Hard
-- [Median of Two Sorted Arrays](/Problems/Hard/MedianOfTwoSortedArrays.cs)
-- [Trapping Rain Water](/Problems/Hard/TrappingRainWater.cs)
+Or check out my NeetCode progress: [NeetCode Progress](https://neetcode.io/HazemTaha/)
